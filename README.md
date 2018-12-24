@@ -1,0 +1,1 @@
+yajl bindings for Crystal
